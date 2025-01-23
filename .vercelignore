@@ -1,0 +1,20 @@
+# Ignore virtual environments
+venv/
+env/
+environments/
+
+# Ignore local databases
+db.sqlite3
+
+# Ignore compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore static files (if served externally)
+staticfiles/
+media/
+
+# Other unnecessary files
+.DS_Store
+node_modules/
