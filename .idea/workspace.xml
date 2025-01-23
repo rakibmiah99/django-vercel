@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ed74fae-5ae7-422e-b067-3b52534f10bf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/my_app/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_app/templates/layouts/app.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_app/templates/layouts/navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_app/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +34,7 @@
     &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;L:/01. Django/new_project&quot;,
+    &quot;last_opened_file_path&quot;: &quot;L:/01. Django/django-vercel/my_app&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -38,6 +43,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="L:\01. Django\django-vercel\my_app" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="django-vercel" type="Python.DjangoServer" factoryName="Django server">
       <module name="django-vercel" />
@@ -80,7 +90,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737651340067</updated>
-      <workItem from="1737651341107" duration="2398000" />
+      <workItem from="1737651341107" duration="3273000" />
     </task>
     <servers />
   </component>
