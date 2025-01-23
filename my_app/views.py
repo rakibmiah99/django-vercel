@@ -11,6 +11,5 @@ def index(request):
         'name': 'John Doe',
         'date': date.today(),
     }
-    return HttpResponse(context)
 
     return render(request, 'index.html', context)
